@@ -22,7 +22,7 @@ Hackathon CCR 2ª Edição
             </sub>
         </a>
         <br/>
-        <a href="https://www.linkedin.com/in/liara-programadora/" title="Linkedin">Linkdin 👩‍💼</a> <br/>
+        <a href="https://www.linkedin.com/in/liara-programadora/" title="Linkedin">Linkedin 👩‍💼</a> <br/>
         <a href="https://github.com/liara987" title="Github">Github 👩‍💻</a> <br/>        
     </td>
     <!-- Nicolas -->
@@ -37,7 +37,7 @@ Hackathon CCR 2ª Edição
             </sub>
         </a>
         <br/>
-        <a href="https://www.linkedin.com/in/nicolas-pereira-24b50a1a7/" title="Linkedin">Linkdin 👨‍💼</a> <br/>
+        <a href="https://www.linkedin.com/in/nicolas-pereira-24b50a1a7/" title="Linkedin">Linkedin 👨‍💼</a> <br/>
         <a href="https://github.com/nicolaspereira26" title="Linkedin">Github 👨‍💻</a> <br/>        
     </td>
     <!-- Andressa -->
@@ -52,7 +52,7 @@ Hackathon CCR 2ª Edição
             </sub>
         </a>
         <br/>
-        <a href="https://www.linkedin.com/in/andressa-monteiro-4575721b1/" title="Linkedin">Linkdin 👩‍💼</a> <br/>
+        <a href="https://www.linkedin.com/in/andressa-monteiro-4575721b1/" title="Linkedin">Linkedin 👩‍💼</a> <br/>
         <a href="https://github.com/andressamonteirocarvalho" title="Github">Github 👩‍💻</a> <br/>        
     </td>
     <!-- Renata -->
@@ -67,7 +67,7 @@ Hackathon CCR 2ª Edição
             </sub>
         </a>
         <br/>
-        <a href="https://www.linkedin.com/in/renatass/" title="Linkedin">Linkdin 👩‍💼</a> <br/>
+        <a href="https://www.linkedin.com/in/renatass/" title="Linkedin">Linkedin 👩‍💼</a> <br/>
         <a href="https://github.com/Renatass?tab=repositories" title="Github">Github 👩‍💻</a> <br/>        
     </td>
  </table>
