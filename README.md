@@ -40,36 +40,7 @@ Hackathon CCR 2ª Edição
         <a href="https://www.linkedin.com/in/nicolas-pereira-24b50a1a7/" title="Linkedin">Linkedin 👨‍💼</a> <br/>
         <a href="https://github.com/nicolaspereira26" title="Linkedin">Github 👨‍💻</a> <br/>        
     </td>
-    <!-- Andressa -->
-    <td align="center">
-        <a href="https://www.linkedin.com/in/andressa-monteiro-4575721b1/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E35AQEz2ASnxkdTbw/profile-framedphoto-shrink_800_800/0/1607704941122?e=1610395200&v=beta&t=KmwjvhAoYTWrKDRjS-3YTmKTcXVluYR14wor8To_TY0" width="100px;" alt=""/>
-            <br/>
-            <sub>
-                <b>Andressa Monteiro</b>
-                <br/>
-                Desenvolvedora/Marketing
-            </sub>
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/andressa-monteiro-4575721b1/" title="Linkedin">Linkedin 👩‍💼</a> <br/>
-        <a href="https://github.com/andressamonteirocarvalho" title="Github">Github 👩‍💻</a> <br/>        
-    </td>
-    <!-- Renata -->
-    <td align="center">
-        <a href="https://www.linkedin.com/in/renatass/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHLB6dILAA9vQ/profile-displayphoto-shrink_800_800/0/1598969155523?e=1616025600&v=beta&t=G03EpMXsHyeaM_bqKQ6SbthRuW-_lDnKnuY4bfLcjMI" width="100px;" alt=""/>
-            <br/>
-            <sub>
-                <b>Renata de Sousa</b>
-                <br/>
-                Desenvolvedora/Marketing
-            </sub>
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/renatass/" title="Linkedin">Linkedin 👩‍💼</a> <br/>
-        <a href="https://github.com/Renatass?tab=repositories" title="Github">Github 👩‍💻</a> <br/>        
-    </td>
+    
  </table>
 
 <!-- Jump to [What's new?](https://github.com/sahat/hackathon-starter/blob/master/CHANGELOG.md)
