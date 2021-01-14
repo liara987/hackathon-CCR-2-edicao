@@ -50,19 +50,19 @@ Iniciando o código
         <a href="https://www.linkedin.com/in/gbayres/" title="Linkedin">Linkedin 👨‍💼</a> <br/>
         <a href="https://github.com/gbayres" title="Github">Github 👨‍💻</a> <br/>        
     </td>    
-     <!--Lean Santana-->
+     <!--Leanderson Souza-->
     <td align="center">
-        <a href="">
-            <img src="" width="100px;" alt="Lean Santana"/>
+        <a href="https://www.linkedin.com/in/leanderson-souza-63372459/">
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFtTK56KZWUlw/profile-displayphoto-shrink_200_200/0/1573474840670?e=1616025600&v=beta&t=JMrhIeB1fYuqA5MsVqsiD3m-fpOfBegJnJfr8WWTgis" width="100px;" alt="Leanderson Souza"/>
             <br/>
             <sub>
-                <b>Lean Santana</b>
+                <b>Leanderson Souza</b>
                 <br/>
                 DEV
             </sub>
         </a>
         <br/>
-        <a href="" title="Linkedin">Linkedin 👩‍💼</a> <br/>              
+        <a href="https://www.linkedin.com/in/leanderson-souza-63372459/" title="Linkedin">Linkedin 👩‍💼</a> <br/>              
     </td>  
     <!-- Nicolas -->
     <td align="center">
