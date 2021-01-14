@@ -4,7 +4,7 @@ Hackathon CCR 2ª Edição
 
 <!-- [![Dependency Status](https://david-dm.org/sahat/hackathon-starter/status.svg?style=flat)](https://david-dm.org/sahat/hackathon-starter) [![devDependencies Status](https://david-dm.org/sahat/hackathon-starter/dev-status.svg)](https://david-dm.org/sahat/hackathon-starter?type=dev) [![Build Status](https://travis-ci.org/sahat/hackathon-starter.svg?branch=master)](https://travis-ci.org/sahat/hackathon-starter) [![Join the chat at https://gitter.im/sahat/hackathon-starter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sahat/hackathon-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
-<!-- **Live Demo**:  -->
+**Live Demo**: 
 
 ### Time
 
@@ -39,37 +39,7 @@ Hackathon CCR 2ª Edição
         <br/>
         <a href="https://www.linkedin.com/in/nicolas-pereira-24b50a1a7/" title="Linkedin">Linkdin 👨‍💼</a> <br/>
         <a href="https://github.com/nicolaspereira26" title="Linkedin">Github 👨‍💻</a> <br/>        
-    </td>
-    <!-- Andressa -->
-    <td align="center">
-        <a href="https://www.linkedin.com/in/andressa-monteiro-4575721b1/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E35AQEz2ASnxkdTbw/profile-framedphoto-shrink_800_800/0/1607704941122?e=1610395200&v=beta&t=KmwjvhAoYTWrKDRjS-3YTmKTcXVluYR14wor8To_TY0" width="100px;" alt=""/>
-            <br/>
-            <sub>
-                <b>Andressa Monteiro</b>
-                <br/>
-                Desenvolvedora/Marketing
-            </sub>
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/andressa-monteiro-4575721b1/" title="Linkedin">Linkdin 👩‍💼</a> <br/>
-        <a href="https://github.com/andressamonteirocarvalho" title="Github">Github 👩‍💻</a> <br/>        
-    </td>
-    <!-- Renata -->
-    <td align="center">
-        <a href="https://www.linkedin.com/in/renatass/">
-            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHLB6dILAA9vQ/profile-displayphoto-shrink_800_800/0/1598969155523?e=1616025600&v=beta&t=G03EpMXsHyeaM_bqKQ6SbthRuW-_lDnKnuY4bfLcjMI" width="100px;" alt=""/>
-            <br/>
-            <sub>
-                <b>Renata de Sousa</b>
-                <br/>
-                Desenvolvedora/Marketing
-            </sub>
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/renatass/" title="Linkedin">Linkdin 👩‍💼</a> <br/>
-        <a href="https://github.com/Renatass?tab=repositories" title="Github">Github 👩‍💻</a> <br/>        
-    </td>
+    </td>    
  </table>
 
 <!-- Jump to [What's new?](https://github.com/sahat/hackathon-starter/blob/master/CHANGELOG.md)

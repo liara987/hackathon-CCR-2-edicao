@@ -1,102 +1,54 @@
 {
-  "user": {
-    "data": [
-      {
-        "id": "5da9ea674234635bdff45c02",
-        "name": "Liara Duarte",
-        "parentId": "5da9ea6732123433432",        
-        "cellphone": "(32)(11111111)",        
-        "email": "email@email.com.br",
-        "occupation": "Medico",
-        "state": "SP",
-        "createdAt": "2019-10-18T16:37:58.979Z",
-        "socialMedia": [{
-          "facebook": "https://www.facebook.com/liara.2.0",
-          "linkedin": "https://www.linkedin.com/in/liara-programadora/",
-          "instagram": "https://www.instagram.com/liaraprogramadora/"
-        }],
-        "idioms": [{
-          "language": ["Português", "Inglês"],
-          "level": ["Fluente", "Avançado"]
-        }],
-        "expreriênce": [{
-          "courses": "React Js, Node js, Angular",
-          "competitions": [{
-            "Hackathon": "Hackathon CCR 2ª edição"
-          }],
-          "voluntaryWork": "",
-          "projects": ""
-        }],
-        "jobsCadidated": [{
-          "id": "a84a91f6-abe9-4330-b2e7-71f37092ae64",
-          "title":"Programador JR",
-          "status": "Em andamento"
-        }]
-      },
-      {
-        "id": "1234435543",
-        "name": "Andressa Monteiro",
-        "parentId": "478354353654",        
-        "cellphone": "(32)(11111111)",        
-        "email": "email@email.com.br",
-        "occupation": "Analista de Sistemas",
-        "state": "SP",
-        "createdAt": "2019-10-18T16:37:58.979Z",
-        "socialMedia": [{
-          "facebook": "https://www.facebook.com/andressa.monteiro.56679",
-          "linkedin": "https://www.linkedin.com/in/andressa-monteiro-4575721b1/",
-          "instagram": "https://www.instagram.com/andressa.dev/"
-        }],
-        "idioms": [{
-          "language": ["Português", "Inglês"],
-          "level": ["Fluente", "Intermediário"]
-        }],
-        "expreriênce": [{
-          "courses": "HTML, CSS, Javascript",
-          "competitions": [{
-            "Hackathon": "Hackathon CCR 2ª edição"
-          }],
-          "voluntaryWork": "",
-          "projects": ""
-        }],
-        "jobsCadidated": [{
-          "id": "6e62aa18-ad24-4fad-9abe-ddc3f4ebea4c",
-          "title":"Programador JR",
-          "status": "Em andamento"
-        }]
-      },
-      {
-        "id": "1234435543",
-        "name": "Nicolas Pereira",
-        "parentId": "478354353654",        
-        "cellphone": "(32)(11111111)",        
-        "email": "email@email.com.br",
-        "occupation": "Engenheiro",
-        "state": "MG",
-        "createdAt": "2019-10-18T16:37:58.979Z",
-        "socialMedia": [{
-          "facebook": "https://www.facebook.com/profile.php?id=100009035989541",
-          "linkedin": "https://www.linkedin.com/in/nicolas-pereira-24b50a1a7/",
-          "instagram": "https://www.instagram.com/nickpereira26/"
-        }],
-        "idioms": [{
-          "language": ["Português", "Inglês"],
-          "level": ["Fluente", "Básico"]
-        }],
-        "expreriênce": [{
-          "courses": "HTML, CSS, Javascript",
-          "competitions": [{
-            "Hackathon": "Hackathon CCR 2ª edição"
-          }],
-          "voluntaryWork": "",
-          "projects": ""
-        }],
-        "jobsCadidated": [{
-          "id": "93bf0325-3ca8-40a2-8161-2124659ca840",
-          "title":"Programador JR",
-          "status": "Em andamento"
-        }]
-      }
-    ]
-  }
+    "user": {
+        "data": [
+            {
+                "id": "5da9ea674234635bdff45c02",
+                "name": "Liara",
+                "parentId": "5da9ea6732123433432",
+                "cellphone": "(32)(11111111)",
+                "email": "email@email.com.br",
+                "occupation": "Programadora",
+                "state": "SP",
+                "createdAt": "2019-10-18T16:37:58.979Z",
+                "socialMedia": [
+                    {
+                        "facebook": "https://www.facebook.com/liara.2.0",
+                        "linkedin": "https://www.linkedin.com/in/liara-programadora/",
+                        "instagram": "https://www.instagram.com/liaraprogramadora/"
+                    }
+                ],
+                "idioms": [
+                    {
+                        "language": [
+                            "Português",
+                            "Inglês"
+                        ],
+                        "level": [
+                            "Fluente",
+                            "Avançado"
+                        ]
+                    }
+                ],
+                "expreriênce": [
+                    {
+                        "courses": "React Js, Node js, Angular",
+                        "competitions": [
+                            {
+                                "Hackathon": "Hackathon CCR 2ª edição"
+                            }
+                        ],
+                        "voluntaryWork": "",
+                        "projects": ""
+                    }
+                ],
+                "jobsCadidated": [
+                    {
+                        "id": "a84a91f6-abe9-4330-b2e7-71f37092ae64",
+                        "title": "Programador JR",
+                        "status": "Em andamento"
+                    }
+                ]
+            }
+        ]
+    }
 }
